@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Transaction Management App UI",
+    "desc": "",
+    "image": "Jay_Transaction tracking Application UI_page-0022",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/design/CqAGxYOQQ7VFWYwXUMZnSy/Jay_Transaction-tracking-Application-UI?node-id=0-1&t=OyZl9U97xTjQeYYD-1"
+     
+    }
+  },
+  {
+    "name": "Food Delivery App UI",
+    "desc": "",
+    "image": "Food delivery App UI_page-0006",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/design/3YqeoxW1L3sgCUIxq4KKTT/Food-delivery-App-UI?node-id=0-1&t=hEhOyzSwzQ1CLYCo-1"
+      
+    }
+  },
+  {
+    "name": "Video Streaming App UI",
+    "desc": "",
+    "image": "Video streaming App UI_page-0011",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/design/k0DdF2EbDVuRme32Cl0gW4/Video-streaming-App-UI?node-id=0-1&t=fS1tjykOXvI4Nu9Y-1"
+      
+    }
+  },
+  {
+    "name": "Naapbook Website Redesign",
+    "desc": "",
+    "image": "Naapbook",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/design/ftBtFkJR7tyzjvialJh2S7/Naapbooks-Redesign-pages?node-id=0-1&t=EOA7z87qW7QEjqiR-1"
+     
+    }
+  },
+  {
+    "name": "Customer Relationship Management App UI ",
+    "desc": "",
+    "image": "CRM_page-0002",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/design/1Gnxw3Gq8QVvKZzT2MJ2oS/Jay_final-year-project?node-id=0-1&t=mfxogf0DgOuiLOuI-1"
+      
+    }
+  }
+]

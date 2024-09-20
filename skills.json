@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+        "name": "Adobe Illustrator",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator.png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/color/48/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    },
+    {
+        "name": "Wordpress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "Shopify",
+        "icon": "https://img.icons8.com/color/48/000000/shopify.png"
+    }
+
+    
+   
+]
